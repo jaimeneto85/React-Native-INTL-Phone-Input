@@ -1,6 +1,6 @@
 {
-  "_from": "react-native-intl-phone-input@^1.2.14",
-  "_id": "react-native-intl-phone-input@1.2.14",
+  "_from": "react-native-intl-phone-input@^1.2.15",
+  "_id": "react-native-intl-phone-input@1.2.15",
   "_inBundle": false,
   "_integrity": "sha512-+IZRv7TqbG2iCmcyDZsD/AW3rn3T2czp3r3IIFF7qcsPxEezBo88iTJmtouWpcEVIGNEZBmrOeb97HYQEB7Dkw==",
   "_location": "/react-native-intl-phone-input",
@@ -8,12 +8,12 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "react-native-intl-phone-input@^1.2.14",
+    "raw": "react-native-intl-phone-input@^1.2.15",
     "name": "react-native-intl-phone-input",
     "escapedName": "react-native-intl-phone-input",
-    "rawSpec": "^1.2.14",
+    "rawSpec": "^1.2.15",
     "saveSpec": null,
-    "fetchSpec": "^1.2.14"
+    "fetchSpec": "^1.2.15"
   },
   "_requiredBy": [
     "#USER",
@@ -21,7 +21,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/react-native-intl-phone-input/-/react-native-intl-phone-input-1.2.12.tgz",
   "_shasum": "78a921724ce61784ecba5add33e2f5c8109378d1",
-  "_spec": "react-native-intl-phone-input@^1.2.14",
+  "_spec": "react-native-intl-phone-input@^1.2.15",
   "_where": "/Users/rostyslavbroslavskyi/Documents/projects/cloudbreak",
   "author": {
     "name": "Muhammed ALMAZ"
@@ -54,7 +54,7 @@
   "main": "index.js",
   "name": "react-native-intl-phone-input",
   "peerDependencies": {
-    "react-native": ">= 0.70"
+    "react-native": ">= 0.70.6"
   },
   "private": false,
   "repository": {
@@ -64,5 +64,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.2.14"
+  "version": "1.2.15"
 }
