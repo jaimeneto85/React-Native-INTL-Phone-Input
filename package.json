@@ -53,8 +53,8 @@
   "license": "MIT",
   "main": "index.js",
   "name": "react-native-intl-phone-input",
-  "peerDependencies": {
-    "react-native": ">= 0.70.6"
+  "devDependencies": {
+    "react-native": "^0.70.6"
   },
   "private": false,
   "repository": {
